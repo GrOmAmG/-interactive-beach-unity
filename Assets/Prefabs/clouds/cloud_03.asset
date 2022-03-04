@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3eed295eadd1d6f4d9411a1b394c5eb3, type: 3}
   m_Name: cloud_03
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 6690009219925934586, guid: 3ebfa6dc5d270cf499610f2336b87244, type: 3}
   maximumOnScene: 1

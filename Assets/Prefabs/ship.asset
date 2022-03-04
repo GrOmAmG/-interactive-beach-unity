@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3eed295eadd1d6f4d9411a1b394c5eb3, type: 3}
-  m_Name: cloud_04
+  m_Name: ship
   m_EditorClassIdentifier: 
-  prefab: {fileID: 6320375929652871626, guid: 392f501df8f51b6488ed7e6105ab5d77, type: 3}
-  maximumOnScene: 1
+  prefab: {fileID: 2209436917008713612, guid: 3270142e4b9d9d347a36c3cf1b1986e5, type: 3}
+  maximumOnScene: 2
