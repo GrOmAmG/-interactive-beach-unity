@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Sky
+    uniqueID: 3828213187
+    locked: 0
+  - name: Sea
+    uniqueID: 3920454809
+    locked: 0
+  - name: Beach
+    uniqueID: 3650865401
+    locked: 0
