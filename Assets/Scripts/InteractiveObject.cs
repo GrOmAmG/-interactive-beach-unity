@@ -2,17 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class InteractiveObject : MonoBehaviour
+[CreateAssetMenu(fileName = "InteractiveObject", menuName = "ScriptableObjects/InteractiveObject", order = 1)]
+public class InteractiveObject : ScriptableObject
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public GameObject prefab;
+    public int maximumOnScene = 1;
 }
